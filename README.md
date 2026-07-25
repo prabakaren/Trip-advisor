@@ -49,7 +49,7 @@ Deploy with GitHub Pages
 Push this project to a GitHub repository
 Go to Settings → Pages
 Under Branch, select main and /root, then Save
-Your site goes live at https://your-username.github.io/tripadvisor-clone/
+Your site goes live at (https://prabakaren.github.io/Trip-advisor/)
 Ideas for Later
  Add JavaScript for working search, favorites, and sign-in
  Make fully responsive for mobile/tablet
