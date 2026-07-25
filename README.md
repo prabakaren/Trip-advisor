@@ -43,7 +43,6 @@ tripadvisor-clone/
     ├── award2026.png
     └── blackbox.png
 
-    Then just open index.html in your browser — or use the Live Server VS Code extension for auto-reload while editing.
 
 Deploy with GitHub Pages
 Push this project to a GitHub repository
@@ -61,4 +60,4 @@ Built for learning purposes. Tripadvisor's name, logo, and branding belong to Tr
 
 Author :praba
 
-Your Name GitHub: @prabakaren
+ GitHub: @prabakaren
